@@ -1,0 +1,7 @@
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\obj\Debug\bot.csproj.CoreCompileInputs.cache
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\obj\Debug\FLOOD_BASE_LOGIN_REC.exe
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\obj\Debug\FLOOD_BASE_LOGIN_REC.pdb
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\bin\Debug\FLOOD_BASE_LOGIN_REC.exe.config
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\bin\Debug\FLOOD_BASE_LOGIN_REC.exe
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\bin\Debug\FLOOD_BASE_LOGIN_REC.pdb
+C:\Users\luisf\source\repos\FLOOD_BASE_LOGIN_REC\FLOOD_BASE_LOGIN_REC\obj\Debug\bot.csprojAssemblyReference.cache
