@@ -14,7 +14,7 @@ namespace bot.network.auth.client
         public override void write()
         {
             Random r = new Random();
-            string USER = Config.usuario + floodAccount.seq1 +""+ r.Next(0, 20000);
+            string USER = Config.usuario + floodAccount.seq1 +"_"+ r.Next(0, 20000);
 
             AuthClient.nextSeed();
             writeH(2561);

@@ -16,7 +16,7 @@ namespace bot
             Printf.blue("[+] https://github.com/luisfeliperm", false);
             Printf.info("\n\n\n Iniciando bot...", false);
             Config.Load();
-            //Thread.Sleep(5000);
+            Thread.Sleep(5000);
             Console.Clear();
 
 
